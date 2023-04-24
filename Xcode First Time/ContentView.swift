@@ -31,7 +31,7 @@ struct ContentView: View {
                 Button("Click for Liveticker") {
                     /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
                 }
-                .font(.system(size: 30))
+                .font(.system(size: 40))
                 Spacer()
                 
                 VStack{
